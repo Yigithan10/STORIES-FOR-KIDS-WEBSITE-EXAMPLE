@@ -1,0 +1,9 @@
+.story-button{
+    overflow: hidden;
+    object-fit: cover;
+    transition: transform 400ms;
+}
+
+.story-button:hover{
+    transform: scale(1.1);
+}
